@@ -1,4 +1,7 @@
-### Hi there 👋
+### Bienvenue 👋
+Je suis actuellement en formation développeur web/webmobile au GRETA PROVENCE, formation de 2000h dont 6 mois de stage, je bosse actuellement au Musée Granet à Aix en Pce sur une appli de gestionnaire de contenu interne que j'ai réalisé from scratch.
+Je suis opérationnel sur les langages de bases HTML, CSS (+Sass), Bootstrap, Javascript, PHP, mySQL ainsi que le framework Symfony. Je m'autoforme également à React. Autres compétences : Wordpress (création thème), Git, environnement Windows et Mac, maquettage et prototypage avec Figma.
+
 
 <!--
 **JonathanSTELLON/JonathanSTELLON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
