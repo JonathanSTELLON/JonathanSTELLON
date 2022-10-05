@@ -1,6 +1,6 @@
 ### Bienvenue 👋
-Je suis actuellement en formation développeur web/webmobile au GRETA PROVENCE, formation de 2000h dont 6 mois de stage, je bosse actuellement au Musée Granet à Aix en Pce sur une appli de gestionnaire de contenu interne que j'ai réalisé from scratch.
-Je suis opérationnel sur les langages de bases HTML, CSS (+Sass), Bootstrap, Javascript, PHP, mySQL ainsi que le framework Symfony. Je m'autoforme également à React. Autres compétences : Wordpress (création thème), Git, environnement Windows et Mac, maquettage et prototypage avec Figma.
+Diplomé du titre RNCP5 développeur web/webmobile au GRETA Provence, je poursuis ma reconversion en alternance à l'école Ri7 pour le titre pro niveau 6 Concepteur/développeur d'applications avec spécialisation sur la stack React/Symfony.
+Mon entreprise d'accueil est la start-up aixoise Vertical Expense qui propose une solution digitale de gestions de notes de frais pour les grands comptes. J'y développe des outils de pilotage de l'application en PHP. 
 
 
 <!--
